@@ -17,7 +17,7 @@ Parch – Parents/children aboard\
 Fare\
 Embarked – Port of embarkation
 # 🧠 Steps Included in the Notebook
-1️⃣ Importing Libraries\
+# 1️⃣ Importing Libraries\
 Pandas, NumPy, Matplotlib/Seaborn, and Scikit-learn are used for analysis and modeling.
 # 2️⃣ Data Loading
 The Titanic dataset (CSV file) is loaded into a Pandas DataFrame.
